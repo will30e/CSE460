@@ -1,0 +1,16 @@
+school_id,neighborhood_id,name,rating
+1,5,School 1,4
+2,1,School 2,8
+3,1,School 3,4
+4,5,School 4,8
+5,5,School 5,8
+6,3,School 6,5
+7,1,School 7,4
+8,4,School 8,2
+9,2,School 9,3
+10,2,School 10,3
+11,5,School 11,4
+12,3,School 12,4
+13,2,School 13,5
+14,1,School 14,4
+15,5,School 15,8
